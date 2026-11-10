@@ -1,0 +1,11 @@
+# Gizli kelime listesinden elle çıkarılan kelimeler (etik bölümü).
+# Bu kelimeler tahmin olarak yine kabul edilir, sadece gizli kelime olarak seçilmez.
+# Ölçüt: küfür/argo, cinsel içerik ya da bir gruba yönelik aşağılayıcı kullanım.
+# Hafif ve günlük kelimeler (aptal, salak, lanet) bilerek listede bırakıldı.
+boklu
+kahpe
+penis
+porno
+taşak
+yarak
+zenci

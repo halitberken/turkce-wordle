@@ -1,0 +1,15 @@
+[project]
+name = "turkce-wordle"
+version = "0.1.0"
+description = "Türkçe Wordle için yapay zeka ajanları (BIL 4112 Yapay Zeka dönem projesi)"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24"]
+
+[project.optional-dependencies]
+dev = ["matplotlib>=3.7", "pytest>=7"]
+
+[tool.setuptools.packages.find]
+include = ["wordle_tr*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
