@@ -1,0 +1,57 @@
+{
+  "tablo": {
+    "tahmin_sayisi": 5370,
+    "gizli_kelime_sayisi": 1900,
+    "hucre_sayisi": 10203000,
+    "boyut_mb": 10.2,
+    "hesaplama_saniye": 4.168,
+    "ornek_dogrulama_cift": 200000,
+    "ornek_dogrulama_uyusmayan": 0,
+    "tam_dogrulama_uyusmayan": 0
+  },
+  "durum_sayisi": 500,
+  "uyusmazlik": 0,
+  "ortalama_kalan_aday": 115.1,
+  "medyan_kalan_aday": 19.0,
+  "trie_dugum_sayisi": 4933,
+  "csp_ortalama_genisletilen_dugum": 703.0,
+  "sure_mikrosaniye": {
+    "geri_bildirim": {
+      "ortalama": 8081.2,
+      "medyan": 7152.8,
+      "hizlanma": 1.0
+    },
+    "kisit": {
+      "ortalama": 1792.7,
+      "medyan": 1376.9,
+      "hizlanma": 4.5
+    },
+    "csp": {
+      "ortalama": 1208.6,
+      "medyan": 938.0,
+      "hizlanma": 6.7
+    },
+    "desen_tablosu": {
+      "ortalama": 27.1,
+      "medyan": 25.9,
+      "hizlanma": 298.2
+    }
+  },
+  "uctan_uca": {
+    "geri_bildirim": {
+      "toplam_saniye": 22.15,
+      "filtre_ms_tahmin_basina": 2.011,
+      "ortalama_tahmin": 3.74
+    },
+    "kisit": {
+      "toplam_saniye": 14.47,
+      "filtre_ms_tahmin_basina": 0.926,
+      "ortalama_tahmin": 3.74
+    },
+    "desen_tablosu": {
+      "toplam_saniye": 8.13,
+      "filtre_ms_tahmin_basina": 0.049,
+      "ortalama_tahmin": 3.74
+    }
+  }
+}

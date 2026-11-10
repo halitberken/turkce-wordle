@@ -1,0 +1,136 @@
+{
+  "gizli_kelime_sayisi": 1900,
+  "filtre": "tablo",
+  "ajanlar": [
+    {
+      "ajan": "rastgele",
+      "oyun_sayisi": 1900,
+      "ortalama_tahmin": 4.1111,
+      "cozme_orani_6": 0.9827,
+      "dagilim": {
+        "1": 4,
+        "2": 81,
+        "3": 452,
+        "4": 715,
+        "5": 462,
+        "6": 159,
+        "7": 23,
+        "8": 4
+      },
+      "en_kotu_kelimeler": [
+        [
+          "beyin",
+          8
+        ],
+        [
+          "nehir",
+          8
+        ],
+        [
+          "saçık",
+          8
+        ],
+        [
+          "vezir",
+          8
+        ],
+        [
+          "canlı",
+          7
+        ],
+        [
+          "cicim",
+          7
+        ],
+        [
+          "değin",
+          7
+        ],
+        [
+          "etmek",
+          7
+        ],
+        [
+          "gafil",
+          7
+        ],
+        [
+          "güçlü",
+          7
+        ]
+      ],
+      "tahmin_basina_ms": 0.043,
+      "toplam_saniye": 0.34,
+      "tohumlar": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "ortalama_tahmin_std": 0.0143,
+      "cozme_orani_6_std": 0.0034,
+      "not": "dağılım ve en kötü kelimeler ilk tohumdan"
+    },
+    {
+      "ajan": "harf_sikligi",
+      "oyun_sayisi": 1900,
+      "ortalama_tahmin": 3.74,
+      "cozme_orani_6": 0.9926,
+      "dagilim": {
+        "1": 1,
+        "2": 95,
+        "3": 691,
+        "4": 805,
+        "5": 242,
+        "6": 52,
+        "7": 12,
+        "8": 2
+      },
+      "en_kotu_kelimeler": [
+        [
+          "sayma",
+          8
+        ],
+        [
+          "yazma",
+          8
+        ],
+        [
+          "atmak",
+          7
+        ],
+        [
+          "cenin",
+          7
+        ],
+        [
+          "karar",
+          7
+        ],
+        [
+          "kazak",
+          7
+        ],
+        [
+          "kısık",
+          7
+        ],
+        [
+          "kuşak",
+          7
+        ],
+        [
+          "kütük",
+          7
+        ],
+        [
+          "savma",
+          7
+        ]
+      ],
+      "tahmin_basina_ms": 1.007,
+      "toplam_saniye": 7.15
+    }
+  ]
+}
