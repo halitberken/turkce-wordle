@@ -1,14 +1,12 @@
 # İş bölümü: Hafta 6-8
 
-Her kişi bir haftanın işini baştan sona sahiplenir ve sunumda o bölümü anlatır. Haftalar birbirinin üzerine kurulu, sıra da bu bağımlılığı izliyor: veri → oyun ve ajanlar → hızlı filtreleme. Algoritmik olarak en zor kısım (kısıtların denklik kanıtı, CSP araması, vektörleştirilmiş desen tablosu) Berken'de.
+Her kişi bir haftanın işini baştan sona sahiplenir ve sunumda o bölümü anlatır. Haftalar birbirinin üzerine kurulu, sıra da bu bağımlılığı izliyor: veri → oyun ve ajanlar → hızlı filtreleme.
 
 | Kişi | Hafta | Dosyalar | Zorluk |
 | --- | --- | --- | --- |
 | **Berken** | 8: Kısıt tabanlı filtreleme, CSP çözücü, desen tablosu, hız karşılaştırması | `wordle_tr/constraints.py`, `csp_solver.py`, `pattern_table.py`, `filters.py`, `scripts/benchmark_filters.py`, `tests/test_week8.py` | Zor |
 | **Arda** | 7: Geri bildirim fonksiyonu, oyun ortamı, temel ajanlar, değerlendirme | `wordle_tr/feedback.py`, `game.py`, `agents/`, `simulate.py`, `scripts/evaluate.py`, `tests/test_feedback.py`, `test_game.py`, `test_agents.py` | Orta |
 | **Faruk** | 6: Problem tanımı, literatür taraması, kelime listesi, terminal oyunu | `wordle_tr/alphabet.py`, `words.py`, `scripts/build_word_lists.py`, `word_stats.py`, `play.py`, `tests/test_alphabet.py` | Kolay-orta |
-
-Berken ekip lideri olarak GitHub deposunu, pull request incelemelerini ve parçaların birlikte çalışmasını da üstlenir.
 
 ## Sunumdan önce herkesin yapması gerekenler
 
